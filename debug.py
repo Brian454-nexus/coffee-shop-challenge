@@ -1,6 +1,4 @@
-from customer import Customer
-from coffee import Coffee
-from order import Order
+from coffee_shop_challenge import Customer, Coffee, Order
 
 def main():
     # Create customers

@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 pytest = "*"
+coffee-shop-challenge = {file = ".", editable = true}
 
 [dev-packages]
 
